@@ -7,6 +7,9 @@ This repository contains my Java programs and practice exercises as I learn Java
 - Hello World
 - Variables
 - Data Types
+- Operators
+- Taking Input
+- Conditionals
 
 ## Goal
 
