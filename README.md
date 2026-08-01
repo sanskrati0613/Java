@@ -10,6 +10,8 @@ This repository contains my Java programs and practice exercises as I learn Java
 - Operators
 - Taking Input
 - Conditionals
+- Loops
+- Pattern
 
 ## Goal
 
