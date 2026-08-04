@@ -11,7 +11,7 @@ This repository contains my Java programs and practice exercises as I learn Java
 - Taking Input
 - Conditionals
 - Loops
-- Pattern
+- Pattern - Solid & Hollow
 
 ## Goal
 
