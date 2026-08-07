@@ -13,6 +13,7 @@ This repository contains my Java programs and practice exercises as I learn Java
 - Loops
 - Pattern - Solid, Hollow, Alphabetic & Numeric
 - Methods
+- Arrays - 1D & 2D
 
 ## Goal
 
